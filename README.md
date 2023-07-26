@@ -1,4 +1,7 @@
-# fzf-preview.vim
+# fzf-preview.vim 
+
+This is fork from: https://github.com/yuki-yano/fzf-preview.vim
+Newest updates broke my workflow.
 
 fzf-preview is a coc extensions and Neovim plugin that provides collection of features to assist file management using fzf. It provides multiple presets of fzf and correspondingly powerful preview. It also provides advanced interactive git integration.
 
